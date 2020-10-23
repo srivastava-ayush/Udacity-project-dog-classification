@@ -4,6 +4,7 @@ Udacity deep learning nano degree project using CNNs, transfer learning in PyTor
 ## Project Overview
 In this project, we build a pipeline that can be used within a web or mobile app to process real-world, user-supplied images. Given an image of a dog, our algorithm will identify an estimate of the canine’s breed. If supplied an image of a human, the code will identify the resembling dog breed.
 
+![alt text](https://github.com/srivastava-ayush/Udacity-project-dog-classification/blob/main/sample_dog_output.png)
 
 ## Dataset
 Data used availaible on https://github.com/udacity/deep-learning-v2-pytorch/tree/master/project-dog-classification
